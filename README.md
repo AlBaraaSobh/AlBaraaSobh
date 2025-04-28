@@ -46,7 +46,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername/" target="blank">
+  <a href="www.linkedin.com/in/albaraa-sobh/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:dev.albaraasobh@gmail.com" target="blank">
